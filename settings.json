@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "CobiCraft.aternos.me:42558",
+    "port": 42558,
     "version": "",
     "try-creative": false
   },
